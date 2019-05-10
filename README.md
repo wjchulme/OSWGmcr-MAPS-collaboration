@@ -4,9 +4,9 @@ This repository relates to the Manchester [Open Science Working Group](https://o
 
 Quick links:
 
-- [Information sheet](https://osf.io/gw96r/), accessible publically
-- [Team instructions](https://osf.io/svj6h/), accessible publically
-- [Data dictionary](https://osf.io/b8pj4/), accessible publically
+- [Information sheet](https://osf.io/gw96r/), accessible publicly
+- [Team instructions](https://osf.io/svj6h/), accessible publicly
+- [Data dictionary](https://osf.io/b8pj4/), accessible publicly
 - [Data dictionary](https://osf.io/m2ckj/), csv accessible to MAPS collaborators only
 - [Synthetic data](https://osf.io/khxzd/), csv accessible to MAPS collaborators only
 - [Preview final analysis report](https://osf.io/w6udn/), pdf accessible to MAPS collaborators only
