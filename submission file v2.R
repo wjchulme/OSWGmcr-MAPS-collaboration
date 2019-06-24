@@ -170,21 +170,3 @@ data3 <- computer_use_001(data2)
 data4 <- depression_001(data3)
 data5 <- missing_001(data4)
 results <- specify_model(data5)
-
-
-
-MIvars <- data5 %>%
-  select(
-    comp_week, comp_wend,
-    comp_bed,
-    sex, iq, bmi_16,
-    child_bull,
-    exercise, creat_14,
-    play_wend, play_week,
-    depression,
-    dep_score, dep_thoughts,
-    dep_band_15, dep_band_13,
-    panic_score
-  )
-
-map(MIvars, ~mean(!is.na(.)))
